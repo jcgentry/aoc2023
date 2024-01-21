@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0a8663a-f787-401a-aaf5-2dcef1f7bb53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/TrebuchetKtTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/exercise.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jcgentry/aoc2023/trebuchet/trebuchet-with-words.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/jcgentry/aoc2023/trebuchet/trebuchet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/jcgentry/aoc2023/trebuchet/trebuchet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/TrebuchetKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/TrebuchetKtTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/exercise.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/exercise.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="JUnit5 Test Class" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -63,7 +61,7 @@
       <recent name="com.jcgentry.aoc2023.trebuchet" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ExerciseKt">
+  <component name="RunManager" selected="JUnit.TrebuchetKtTest">
     <configuration name="TrebuchetKtTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="aoc2023" />
       <extension name="coverage">
@@ -88,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ExerciseKt" />
         <item itemvalue="JUnit.TrebuchetKtTest" />
+        <item itemvalue="Kotlin.ExerciseKt" />
       </list>
     </recent_temporary>
   </component>
@@ -121,16 +119,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/test/kotlin/com/jcgentry/aoc2023/trebuchet/exercise.kt</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
