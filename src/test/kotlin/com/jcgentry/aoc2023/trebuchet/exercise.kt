@@ -2,11 +2,11 @@ package com.jcgentry.aoc2023.trebuchet
 
 import com.jcgentry.com.jcgentry.aoc2023.trebuchet.calibrationSum
 import com.jcgentry.com.jcgentry.aoc2023.trebuchet.calibrationSumWithWords
-import com.jcgentry.com.jcgentry.aoc2023.trebuchet.calibrationValue
 
 fun main() {
     main2()
 }
+@Suppress("unused")
 fun main1() {
     object {}
         .javaClass
